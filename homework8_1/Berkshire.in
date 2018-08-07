@@ -1,0 +1,11 @@
+6
+
+Pittsfield    Albany      Westfield   
+Williamstown     Northampton    GreatBarrington       
+
+Northampton     2  Westfield    15     Williamstown    30
+Pittsfield      3  Westfield    40     Albany          45   GreatBarrington  35
+GreatBarrington 2  Pittsfield   35     Westfield       25
+Williamstown    2  Pittsfield   30     Northampton     30
+Westfield       3  Pittsfield   40     Northampton     15    GreatBarrington 25     
+Albany          1  Pittsfield   45
